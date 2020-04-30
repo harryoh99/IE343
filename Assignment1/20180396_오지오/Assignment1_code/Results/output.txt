@@ -1,0 +1,18 @@
+Feature dimension: 1
+Average MSE: 0.3174	Average STD: 0.0951	 R^2: 0.2987
+Feature dimension: 2
+Average MSE: 0.3512	Average STD: 0.1341	 R^2: 0.224
+Feature dimension: 3
+Average MSE: 0.0947	Average STD: 0.0396	 R^2: 0.7907
+Feature dimension: 4
+Average MSE: 0.0975	Average STD: 0.0528	 R^2: 0.7846
+Feature dimension: 5
+Average MSE: 0.109	Average STD: 0.0781	 R^2: 0.7592
+Feature dimension: 6
+Average MSE: 0.1402	Average STD: 0.1709	 R^2: 0.6902
+Feature dimension: 7
+Average MSE: 0.219	Average STD: 0.265	 R^2: 0.516
+Feature dimension: 8
+Average MSE: 0.2053	Average STD: 0.1682	 R^2: 0.5464
+Feature dimension: 9
+Average MSE: 0.6764	Average STD: 0.8805	 R^2: -0.4946
